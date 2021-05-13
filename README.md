@@ -72,3 +72,5 @@ theme
 ### How to use a translation
 
 When editing a theme in the FusionAuth UI you have the option to add additional supported languages in the Message tab. Click the language you would like to add and then copy and paste the language into the text area.
+
+[![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/fusionauth-localization)](https://github.com/kevinadhiguna)
